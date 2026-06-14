@@ -58,16 +58,17 @@
 | Project | Description |
 | --- | --- |
 | 🧱 [Odoo-Projects](https://github.com/Kunjan2904/Odoo-Projects) | Custom Odoo modules and ERP project work |
-| 🐍 [Python-With-Django](https://github.com/Kunjan2904/Python-With-Django) | Django projects built during a 15-day internship at Akash Technolabs |
-| 🔢 [Python-Program](https://github.com/Kunjan2904/Python-Program) | Core Python programs and problem-solving practice |
-| 🌐 [AWP-Practical](https://github.com/Kunjan2904/AWP-Practical) | Advanced Web Programming practicals |
+| 🎥 [VCW - Video Chat Web](https://github.com/Kunjan2904/VCW) | Real-time WebRTC video chat app with Django Channels signaling ([live demo](https://vcw.onrender.com)) |
 
 ---
 
 ### 📫 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/kunjan-patel" target="_blank">
+  <a href="https://kunjan2904.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-2F81F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/kunjan-patel-7261031a2/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:patelkunjan1319@gmail.com">
