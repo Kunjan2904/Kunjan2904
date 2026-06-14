@@ -67,7 +67,7 @@
 ### 📫 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/kunjan-patel" target="_blank">
+  <a href="https://www.linkedin.com/in/kunjan-patel-7261031a2" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:patelkunjan1319@gmail.com">
