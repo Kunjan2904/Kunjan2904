@@ -14,9 +14,9 @@
 
 ### 👨‍💻 About Me
 
-- 🧩 I'm a **Python Developer** specializing in **Odoo ERP** development and customization
+- 🧩 I'm a **Python Developer** specializing in **Odoo ERP** development,customization,migration and integration of it
 - ⚙️ I build custom Odoo modules, automate business workflows, and integrate ERP with other systems
-- 🌱 Currently sharpening my skills in **Django**, **REST APIs**, and **PostgreSQL**
+- 🌱 Currently sharpening my skills in **Odoo**, **OWL-JS**, **PostgreSQL** and **Django**
 - 🤝 Open to collaborating on Python, Odoo, and Django projects
 - 📍 Based in Ahmedabad, India
 
